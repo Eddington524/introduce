@@ -67,6 +67,7 @@ a{
     height: 100vh;
     border: solid gray 1px;
     padding-top: 50px;
+    padding-bottom: 200px;
     background-color:#dbffff;
     font-family: 'Source Sans Pro', sans-serif;
 }
